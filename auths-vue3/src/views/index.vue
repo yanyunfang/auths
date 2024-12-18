@@ -4,7 +4,7 @@
 </template>
 
 <script setup name="Index">
-const version = ref('3.8.8')
+const version = ref('0.9.0')
 
 function goTarget(url) {
   window.open(url, '__blank')

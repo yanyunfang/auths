@@ -1,6 +1,6 @@
 package com.auths.generator.domain;
 
-import javax.validation.constraints.NotBlank;
+import jakarta.validation.constraints.NotBlank;
 import com.auths.common.core.domain.BaseEntity;
 import com.auths.common.utils.StringUtils;
 

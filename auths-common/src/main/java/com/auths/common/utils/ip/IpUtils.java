@@ -2,7 +2,7 @@ package com.auths.common.utils.ip;
 
 import java.net.InetAddress;
 import java.net.UnknownHostException;
-import javax.servlet.http.HttpServletRequest;
+import jakarta.servlet.http.HttpServletRequest;
 import com.auths.common.utils.ServletUtils;
 import com.auths.common.utils.StringUtils;
 

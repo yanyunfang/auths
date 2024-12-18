@@ -1,8 +1,8 @@
 package com.auths.generator.domain;
 
 import java.util.List;
-import javax.validation.Valid;
-import javax.validation.constraints.NotBlank;
+import jakarta.validation.Valid;
+import jakarta.validation.constraints.NotBlank;
 import org.apache.commons.lang3.ArrayUtils;
 import com.auths.common.constant.GenConstants;
 import com.auths.common.core.domain.BaseEntity;
